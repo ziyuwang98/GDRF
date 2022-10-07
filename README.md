@@ -6,7 +6,11 @@
 
 This repository contains the core implementation of the following paper:
 
-Ziyu Wang, Yu Deng, Jiaolong Yang, Jingyi Yu and Xin Tong, **Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**, Pacific Graphics (PG) & Computer Graphics Forum (CGF), 2022
+Ziyu Wang, Yu Deng, Jiaolong Yang, Jingyi Yu and Xin Tong
+
+**Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**
+
+Pacific Graphics (PG) & Computer Graphics Forum (CGF), 2022
 
 ### [Project page](https://ziyuwang98.github.io/GDRF/) | [Paper](https://arxiv.org/abs/2209.04183) ###
 
